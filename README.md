@@ -1,5 +1,9 @@
 ### Hi I'm Tony 👋
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+I am a mern-stack developer
+
 <!--
 **a-dams154/a-dams154** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
