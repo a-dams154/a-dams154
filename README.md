@@ -1,6 +1,6 @@
 Hi I'm Tony 👋
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Dynamic and creative self-taught mern stack developer with experience designing, developing, and maintaining web applications. Focused on writing readable code, while ensuring to follow the best practices throughout the SDLC.
+### Dynamic and creative self-taught mern stack developer with experience designing, developing, and maintaining web applications. Focused on writing readable code, while ensuring to follow the best practices throughout the SDLC.
 
 <!--
 **a-dams154/a-dams154** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
