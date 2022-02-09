@@ -1,6 +1,5 @@
-                                                                 
-                                                               Hi I'm Tony 👋
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Hi I'm Tony 👋
+
 Dynamic and creative self-taught mern stack developer with experience designing, developing, and maintaining web applications. Focused on writing readable code, while ensuring to follow the best practices throughout the SDLC.
 
 <!--
